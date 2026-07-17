@@ -4,7 +4,7 @@
   <b>Founder of <a href="https://siliconboard.co">SiliconBoard</a></b> &nbsp;·&nbsp; ex–Team Lead @ Xalts &nbsp;·&nbsp; 100% technical
 </p>
 <p align="center">
-  <em>I build GenAI plumbing — MCP servers, scrapers, voice/video + LLM pipelines — and point it at boring, high-value workflows so the agent does the part nobody wants to do twice.</em>
+  <em>I build GenAI plumbing — MCP servers, scrapers, voice/video + LLM pipelines — and point it at boring, high-value workflows so the agent does the part nobody wants to do twice</em>
 </p>
 
 <p align="center">
