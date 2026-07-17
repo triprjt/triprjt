@@ -31,8 +31,8 @@
 <h3 align="left">🚀 What I'm building:</h3>
 
 - **[SiliconBoard](https://siliconboard.co)** — semiconductor job board; scrapers → role/skill taxonomy → salary benchmarking → LLM job-readiness reports. Node · Astro · libSQL · LLM pipeline.
-- **[FolkTalk-MCP](https://github.com/triprjt/folktalk-mcp)** — MCP server wrapping a self-hosted lip-sync stack (MuseTalk + Cartesia + Veo). ~$0.03 per 30s personalised video, ~75% margin.
-- **[Kit-MCP](https://github.com/triprjt/convertikit-deploy)** — idempotent markdown-spec → ConvertKit V4 deploy pipeline (5 forms, 55 tags, 40+ emails in one `npm run deploy`).
+- **FolkTalk-MCP** *(in progress)* — MCP server wrapping a self-hosted lip-sync stack (MuseTalk + Cartesia + Veo). ~$0.03 per 30s personalised video, ~75% margin.
+- **Kit-MCP** *(in progress)* — idempotent markdown-spec → ConvertKit V4 deploy pipeline (5 forms, 55 tags, 40+ emails in one `npm run deploy`).
 - **[ViralFinder](https://apps.tripathirajat.com)** · **[fileSyncing](https://github.com/triprjt/fileSyncing)** · **[emailVectorDB](https://github.com/triprjt/emailVectorDB)**
 
 <h3 align="left">📊 GitHub Stats:</h3>
