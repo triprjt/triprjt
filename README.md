@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:1f6feb&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Rajat%20Tripathi&descAlignY=58&descSize=22" width="100%" />
 
 <h1 align="left">Hi 👋, I'm Rajat Tripathi</h1>
-<h3 align="left">Founder of <a href="https://siliconboard.co">SiliconBoard</a> · ex–Team Lead @ Xalts · I build GenAI plumbing</h3>
+<h3 align="left">Founder of <a href="https://siliconboard.co">SiliconBoard</a> · ex–Team Lead @ Xalts · I build GenAI plumbing and full stack projects</h3>
 
 <p align="left">
   <a href="https://github.com/triprjt"><img src="https://img.shields.io/github/followers/triprjt?label=Follow&style=social" alt="followers" /></a>
